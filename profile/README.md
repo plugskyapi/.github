@@ -43,7 +43,11 @@ curl https://api.plugsky.com/v1/chat/completions \
 
 - Enterprise AI API package: https://plugsky.com/enterprise/ai-api-package
 - Sovereign AI package: https://plugsky.com/enterprise/sovereign-ai-package
+- Private LLM deployment: https://plugsky.com/enterprise/private-llm-deployment
+- Procurement and RFP information: https://plugsky.com/enterprise/procurement-rfp
 - Enterprise AI API verification checklist: https://plugsky.com/articles/enterprise-ai-api-verification-checklist
+- Sovereign AI verification checklist: https://plugsky.com/tools/sovereign-ai-verification-checklist
+- AI discoverability checklist: https://plugsky.com/tools/ai-discoverability-checklist
 - Enterprise AI platform comparison (2027): https://plugsky.com/best/enterprise-ai-platform-2027
 
 Flat plans Builder ($60/mo) and Scale ($120/mo) have no monthly token cap and no per-token overage; fair-use concurrency and RPM limits apply. Annual billing saves 20%; first month is 30% off, capped at $20; 7-day guarantee. Private deployment is by contract in Virginia, Frankfurt, UAE and Singapore, with Riyadh on Enterprise only. Security work is aligned with SOC 2 and ISO 27001 practices; Plugsky does not hold those certifications, documentation is under NDA, and there is no FedRAMP authorization. Verify the current model catalogue at `GET https://api.plugsky.com/v1/models`.
